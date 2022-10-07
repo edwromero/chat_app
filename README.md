@@ -1,16 +1,22 @@
-# chat_app
+# CHAT APP
 
-A new Flutter project.
 
-## Getting Started
+In this mini project I want to show you a chat app that I made. Although the visual structure is simple, what I want to highlight is the functionality with firebase. It works 100% and is stable with the minimum configuration of the database.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## This application contains:
+* Basic error handling like "@" ".com" "minimum characters".
+* Firebase integration.
+* Active notifications.
+* Integration of the active camera and collection of information.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![GIF](https://github.com/edwromero/chat_app/blob/main/chatApp1.gif).
+***************************************************************************************
+![GIF](https://github.com/edwromero/chat_app/blob/main/chatapp2.gif).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+# Testing it on an android device
+## https://www.linkedin.com/feed/update/urn:li:activity:6983871705530183680/
+***************************IMPORTANT******************************
+
+Remember this is not a final product, it is just a sample of my knowledge and studies in the area. #github #project #video #database #firebase #flutter #dart #android
